@@ -16,11 +16,7 @@ Python 3.8 or higher
 
 #Project Structure
 
-.
-├── etl_pipeline.py        # Main ETL pipeline script
-├── test_data/             # Folder for test datasets (not included in the repo)
-    ├── data_downloader.py # Downloads the XLSX file from an external URL
-├── requirements.txt       # List of required dependencies
+![image](https://github.com/user-attachments/assets/ecf77ec2-37fe-4f5b-95bd-eecfd36359df)
 
 Dependencies
 
